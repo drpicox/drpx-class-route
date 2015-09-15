@@ -1,0 +1,26 @@
+{
+  "name": "drpx-class-route",
+  "version": "1.0.0",
+  "description": "Add or remove classes to perform animations and give specific classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drpicox/drpx-class-route.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "\"David Rodenas\" <davidrodenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drpicox/drpx-class-route/issues"
+  },
+  "peerDependencies": {
+    "angular": ">=1.2.28 <2.0.0",
+    "angular-route": ">=1.2.28 <2.0.0"
+  },
+  "homepage": "https://github.com/drpicox/drpx-class-route#readme"
+}
