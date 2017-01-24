@@ -40,7 +40,7 @@ $routeProvider.when('/', {
 Install the package in your project:
 
 ```bash
-$ npm install --save drpx-route-component
+$ npm install --save drpx-class-route
 ```
 
 Add the dependence in your app module:
